@@ -31,4 +31,4 @@
 [website]: https://sites.google.com/viva-technology.org/harshada-naik/home
 [twitter]: https://twitter.com/naikharsha2002
 [instagram]: https://www.instagram.com/naik_harshada
-[linkedin]: https://www.linkedin.com/in/harshada-naik
+[linkedin]: https://www.linkedin.com/in/
