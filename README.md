@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other students interested in learning new
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love art 
+- ⚡ Fun fact: I fascinated by puzzles and love doing different art work
 
 
 ### Connect with me:
