@@ -1,6 +1,8 @@
 
 ### Hi there, I'm [Harshada Rajendra Naik][website] 👋
 
+[![HitCount](http://hits.dwyl.com/naikharshada/naikharshada.svg)](http://hits.dwyl.com/naikharshada/naikharshada)
+
 ## I'm a Daughter, BSCIT Student!
 
 - 🌱 I’m currently learning everything 🤣
