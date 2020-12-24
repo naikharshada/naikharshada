@@ -12,6 +12,18 @@
 
 <img align="left" alt="gif"  src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naikharshada&label=Profile%20views&color=0e75b6&style=flat" alt="naikharshada" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naikharshada" alt="naikharshada" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/naikharsha2002" target="blank"><img src="https://img.shields.io/twitter/follow/naikharsha2002?logo=twitter&style=for-the-badge" alt="naikharsha2002" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
