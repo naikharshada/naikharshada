@@ -1,9 +1,11 @@
 
 ### Hi there, I'm [Harshada Rajendra Naik][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naikharshada&label=Profile%20views&color=0e75b6&style=flat" alt="naikharshada" /> </p>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/naikharsha2002" target="blank"><img src="https://img.shields.io/twitter/follow/naikharsha2002?logo=twitter&style=for-the-badge" alt="naikharsha2002" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naikharshada&label=Profile%20views&color=0e75b6&style=flat" alt="naikharshada" /> </p>
 
 ## I'm a Daughter, BSCIT Student!
 
@@ -63,7 +65,8 @@
 [instagram]: https://www.instagram.com/naik_harshada
 [linkedin]: www.linkedin.com/in/harshada-naik-26b19b1b0
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
 
 
 
