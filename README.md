@@ -34,20 +34,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naikharshada&" alt="naikharshada" /></p>
 
-
-[website]: https://sites.google.com/viva-technology.org/harshada-naik/home
-[twitter]: https://twitter.com/naikharsha2002
-[instagram]: https://www.instagram.com/naik_harshada
-[linkedin]: www.linkedin.com/in/harshada-naik-26b19b1b0
-
-
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naikharshada" alt="naikharshada" /></a> </p>
 
-
+[website]: https://sites.google.com/viva-technology.org/harshada-naik/home
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
