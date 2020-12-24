@@ -1,7 +1,9 @@
 
 ### Hi there, I'm [Harshada Rajendra Naik][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![HitCount](http://hits.dwyl.com/naikharshada/naikharshada.svg)](http://hits.dwyl.com/naikharshada/naikharshada)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naikharshada&label=Profile%20views&color=0e75b6&style=flat" alt="naikharshada" /> </p>
+
+<p align="left"> <a href="https://twitter.com/naikharsha2002" target="blank"><img src="https://img.shields.io/twitter/follow/naikharsha2002?logo=twitter&style=for-the-badge" alt="naikharsha2002" /></a> </p>
 
 ## I'm a Daughter, BSCIT Student!
 
@@ -63,11 +65,11 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naikharshada&label=Profile%20views&color=0e75b6&style=flat" alt="naikharshada" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naikharshada" alt="naikharshada" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/naikharsha2002" target="blank"><img src="https://img.shields.io/twitter/follow/naikharsha2002?logo=twitter&style=for-the-badge" alt="naikharsha2002" /></a> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
