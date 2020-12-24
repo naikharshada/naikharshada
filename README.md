@@ -19,7 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://sites.google.com/viva-technology.org/harshada-naik/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="40" /></a>
-[<img align="left" alt="codeSTACKr | YouTube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <a href="https://twitter.com/naikharsha2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naikharsha2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshada-naik-26b19b1b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshada-naik-26b19b1b0" height="30" width="40" /></a>
 <a href="https://fb.com/harshada.naik.39589" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshada.naik.39589" height="30" width="40" /></a>
@@ -43,6 +42,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naikharshada" alt="naikharshada" /></a> </p>
 
 [website]: https://sites.google.com/viva-technology.org/harshada-naik/home
-[youtube]: https://www.youtube.com/channel/UCilYVcxFZAYJ50xfQ8uVfxw
+
 
 
