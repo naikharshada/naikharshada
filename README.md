@@ -33,9 +33,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naikharshada&show_icons=true&locale=en&layout=compact" alt="naikharshada" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naikharshada&show_icons=true&locale=en" alt="naikharshada" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naikharshada&show_icons=true&locale=en&layout=compact" alt="naikharshada" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naikharshada&" alt="naikharshada" /></p>
 
