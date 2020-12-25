@@ -43,6 +43,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naikharshada" alt="naikharshada" /></a> </p>
 
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=naikharshada&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000" alt="naikharshada" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
+<details>
+  <summary>📊 GitHub Profile Trophies</summary>
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=naikharshada&column=2&theme=darkhub&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA" alt="naikharshada" /></a>
+</details>
+<details>
+  <summary>📊 GitHub Profile Streaks</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-streak-stats"> <img align="left" width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=naikharshada&theme=highcontrast" alt="naikharshada" />
+</a>
+</details>
 [website]: https://sites.google.com/viva-technology.org/harshada-naik/home
 
 
