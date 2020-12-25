@@ -25,7 +25,7 @@
 <a href="https://instagram.com/naik_harshada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="naik_harshada" height="30" width="40" /></a>
 <a href="https://medium.com/@naikharshada2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@naikharshada2002" height="30" width="40" /></a>
 <a href="https://t.me/naik_harshada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="naik_harshada" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=7977423550" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="naik_harshada" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
