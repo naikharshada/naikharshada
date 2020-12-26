@@ -19,6 +19,7 @@
 <img align="left" alt="gif"  src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
 
 ### Connect with me:
+
 <p align="left">
 <a href="https://sites.google.com/viva-technology.org/harshada-naik/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="40" /></a>
 <a href="https://twitter.com/naikharsha2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naikharsha2002" height="30" width="40" /></a>
@@ -40,6 +41,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
+
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
