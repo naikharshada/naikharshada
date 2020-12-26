@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/naikharsha2002" target="blank"><img src="https://img.shields.io/twitter/follow/naikharsha2002?logo=twitter&style=for-the-badge" alt="naikharsha2002" /></a> </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue&label=CONNECT&link=https://www.linkedin.com/in/harshada-naik-26b19b1b0)](https://www.linkedin.com/in/harshada-naik-26b19b1b0)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikharshada&label=Profile%20views&color=0e75b6&style=flat" alt="naikharshada" /> </p>
 
 ## I'm a Daughter, BSCIT Student!
