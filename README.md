@@ -58,7 +58,7 @@
 <details>
   <summary>🏆 GitHub Profile Trophies</summary>
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=naikharshada&column=2&theme=darkhub&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA" alt="naikharshada" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=naikharshada&column=3&theme=darkhub&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA" alt="naikharshada" /></a>
 </details>
 
 <details>
