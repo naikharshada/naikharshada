@@ -16,7 +16,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I fascinated by puzzles and love doing different art work
 
-<img align="left" alt="gif"  src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
+<img align="right" alt="gif"  src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
 
 ## Connect with me:
 
