@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Harshada Rajendra Naik][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm [Harshada Rajendra Naik][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" alt="gif"  src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
 
 <h3 align="left">A passionate frontend developer from India</h3>
 
@@ -16,7 +16,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I fascinated by puzzles and love doing different art work
 
-<img align="right" alt="gif"  src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
 
 ## Connect with me:
 
