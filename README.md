@@ -11,9 +11,9 @@
 
 ## I'm a Daughter, BSCIT Student!
 
-- 🌱 I’m currently learning AIML
+- 🌱 I’m currently learning APP DEVELOPMENT
 - 👯 I’m looking to collaborate with other students interested in learning new
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I fascinated by puzzles and love doing different art work
 
 
