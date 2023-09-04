@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikharshada&label=Profile%20views&color=0e75b6&style=flat" alt="naikharshada" /> </p>
 
-## I'm a Daughter, BSCIT Student!
+## I'm a Daughter, MCA Student!
 
 - 🌱 I’m currently learning APP DEVELOPMENT
 - 👯 I’m looking to collaborate with other students interested in learning new
